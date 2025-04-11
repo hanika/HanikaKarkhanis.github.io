@@ -1,2 +1,2 @@
-# things-i-made
-A personal project collection of exhibits and interactives I have worked on.
+# Hanika Karkhanis
+I am a Software Engineer and Creative Technologist. I enjoy making inmmersive, intercative and engaging exhibits. The applications I have worked on are currently installed in museums, cultural spaces and educational institutions.
